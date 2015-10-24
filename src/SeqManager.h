@@ -47,4 +47,4 @@ class SeqManager : public slSequencer {
 
 };
 
-#endif /* defined(__yagiSys__SeqManager__) */VOID
+#endif /* defined(__yagiSys__SeqManager__) */
